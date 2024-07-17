@@ -1,1 +1,1 @@
-completed work from the odin project
+completed mini projects from the odin project course
