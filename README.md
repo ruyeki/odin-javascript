@@ -1,1 +1,1 @@
-completed mini projects from the odin project course
+this repo contains completed mini projects from the odin project's full-stack course
