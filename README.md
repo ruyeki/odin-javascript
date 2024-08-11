@@ -1,1 +1,1 @@
-repo contains completed mini projects from the odin project's full-stack course
+repo contains completed mini projects from the odin project's javascript course
